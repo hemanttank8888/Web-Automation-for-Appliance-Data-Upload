@@ -76,9 +76,9 @@ The page refreshes, and the status is updated for the appliance.
 
 This table represents the product data including model name, brand, category, image URL, user manual, energy guide, and warranty guide.
 
-| **Model Name**   | **Name** | **Brand** | **Category** | **Image URL** | **User Manual** | **Energy Guide** | **Warranty Guide** |
-|------------------|----------|-----------|--------------|---------------|-----------------|------------------|---------------------|
-| MDB4409PAWO      | XYZ      | VIKING    | Range        | [Image Link](http://...)  | [User Manual Link](http://...) | [Energy Guide Link](http://...) | [Warranty Guide Link](http://...) |
+| **Model Name**   | **Source**  | **Name** | **Brand** | **Category** | **Image URL** | **User Manual** | **Energy Guide** | **Warranty Guide** |
+|------------------|-------------|----------|-----------|--------------|---------------|-----------------|------------------|---------------------|
+| MDB4409PAWO   | [Image Link](http://...)  | XYZ      | VIKING    | Range        | [Image Link](http://...)  | [User Manual Link](http://...) | [Energy Guide Link](http://...) | [Warranty Guide Link](http://...) |
 
 ## Future Improvements
 
